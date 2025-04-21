@@ -1,2 +1,3 @@
-print ("ET0735 - DevOPS is a DCPE module")
+print ("ET0735 - DevOPS for AIoT")
 
+print ("ET0735 - DevOPS for AIoT yipee hooray ")
